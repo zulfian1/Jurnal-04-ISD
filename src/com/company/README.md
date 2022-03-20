@@ -1,5 +1,5 @@
-NIM     : 6706213118
+NIM     : 6706213035
 
-NAMA    : FIRMANSYAH SEPTIAN
+NAMA    : Fuad Nazri Dzulfian
 
 KELAS   : D3 RPLA 45-04 

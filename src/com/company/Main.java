@@ -5,11 +5,11 @@ import java.util.Scanner;
 
 public class Main {
     public static void pilihan(){
-        System.out.println(" -------- Mau Ngapain -------- ");
-        System.out.println(" 1. Input Lagu ");
-        System.out.println(" 2. Hapus Lagu ");
-        System.out.println(" 3. Play Lagu ");
-        System.out.println(" 4. keluar ");
+        System.out.println(" -------- input -------- ");
+        System.out.println(" 1. Input song ");
+        System.out.println(" 2. delete song ");
+        System.out.println(" 3. Play song ");
+        System.out.println(" 4. leave ");
     }
 
     public static void main(String[] args) {
